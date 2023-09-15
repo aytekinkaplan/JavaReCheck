@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="" />
+    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="New Commit">
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass001/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass001/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass002/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass002/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/ScannerExample001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/ScannerExample002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/ScannerExample003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2VRu2YBAyFwF4BbKqSP4PlSEidP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,10 +45,92 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Java001_Scanner",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aonik\IdeaProjects\JavaReCheck\src\Java001_Scanner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Java001_Scanner.CallingFromClass002.Class2">
+    <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass001.Class2" />
+      <module name="JavaReCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java001_Scanner.CallingFromClass001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java001_Scanner.CallingFromClass002.Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass002.Class2" />
+      <module name="JavaReCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java001_Scanner.CallingFromClass002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaReCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerExample001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.ScannerExample001" />
+      <module name="JavaReCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java001_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerExample002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.ScannerExample002" />
+      <module name="JavaReCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java001_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java001_Scanner.CallingFromClass002.Class2" />
+        <item itemvalue="Application.Class2" />
+        <item itemvalue="Application.ScannerExample002" />
+        <item itemvalue="Application.ScannerExample001" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,16 +139,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694811008753</updated>
-      <workItem from="1694811009988" duration="1000" />
+      <workItem from="1694811009988" duration="6333000" />
     </task>
+    <task id="LOCAL-00001" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1694811252899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694811252899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
