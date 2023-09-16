@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="New Commit" />
+    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="New Commit">
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass009/Class01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass009/Class02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass010/Cl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass010/Cm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass011/ClassXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass011/ClassYY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass012/Cl01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass012/Cl02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass013/ClassAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass013/ClassAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass014/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass014/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass015/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass015/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass016/Cls01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass016/Cls02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass001/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass001/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass002/NewClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass002/NewClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +81,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aonik\IdeaProjects\JavaReCheck\src\Java001_Scanner" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java002_Operators" />
+      <recent name="Java002_Operators.CallingFromClass002" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ClassY">
-    <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass006.Class2" />
+  <component name="RunManager" selected="Application.ComparisonOperators003">
+    <configuration name="ArithMeticExample003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ArithMeticExample003" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java001_Scanner.CallingFromClass006.*" />
+          <option name="PATTERN" value="Java002_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass005.ClassA" />
+    <configuration name="ArithMeticExample004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ArithMeticExample004" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java001_Scanner.CallingFromClass005.*" />
+          <option name="PATTERN" value="Java002_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass008.ClassY" />
+    <configuration name="ComparisonOperators001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators001" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java001_Scanner.CallingFromClass008.*" />
+          <option name="PATTERN" value="Java002_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java001_Scanner.CallingFromClass004.ClassB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass004.ClassB" />
+    <configuration name="ComparisonOperators002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators002" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java001_Scanner.CallingFromClass004.*" />
+          <option name="PATTERN" value="Java002_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java001_Scanner.CallingFromClass007.ClassB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass007.ClassB" />
+    <configuration name="ComparisonOperators003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators003" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java001_Scanner.CallingFromClass007.*" />
+          <option name="PATTERN" value="Java002_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassY" />
-        <item itemvalue="Application.Java001_Scanner.CallingFromClass007.ClassB" />
-        <item itemvalue="Application.Java001_Scanner.CallingFromClass06.Class2" />
-        <item itemvalue="Application.ClassA" />
-        <item itemvalue="Application.Java001_Scanner.CallingFromClass004.ClassB" />
+        <item itemvalue="Application.ComparisonOperators003" />
+        <item itemvalue="Application.ComparisonOperators002" />
+        <item itemvalue="Application.ComparisonOperators001" />
+        <item itemvalue="Application.ArithMeticExample004" />
+        <item itemvalue="Application.ArithMeticExample003" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694811008753</updated>
       <workItem from="1694811009988" duration="8601000" />
-      <workItem from="1694840696304" duration="13296000" />
+      <workItem from="1694840696304" duration="28432000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <option name="closed" value="true" />
@@ -340,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694875657226</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1694875741922</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1694875741922</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
