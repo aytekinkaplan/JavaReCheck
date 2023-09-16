@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="17/09/23 dated committing" />
+    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="17/09/23 dated committing">
+      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/LogicOperators001.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,15 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694811008753</updated>
       <workItem from="1694811009988" duration="8601000" />
-      <workItem from="1694840696304" duration="29033000" />
-    </task>
-    <task id="LOCAL-00006" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694817562999</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1694817562999</updated>
+      <workItem from="1694840696304" duration="29407000" />
     </task>
     <task id="LOCAL-00007" summary="New Commit">
       <option name="closed" value="true" />
@@ -536,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694899113018</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899158742</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899158742</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
