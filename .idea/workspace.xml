@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="New Commit">
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass009/Class01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass009/Class02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass010/Cl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass010/Cm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass011/ClassXX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass011/ClassYY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass012/Cl01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass012/Cl02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass013/ClassAX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass013/ClassAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass014/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass014/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass015/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass015/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass016/Cls01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass016/Cls02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ArithMeticExample004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass001/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass001/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass002/NewClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/CallingFromClass002/NewClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java002_Operators/ComparisonOperators003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="17/09/23 dated committing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,47 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694811008753</updated>
       <workItem from="1694811009988" duration="8601000" />
-      <workItem from="1694840696304" duration="28432000" />
-    </task>
-    <task id="LOCAL-00001" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694811252899</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1694811252899</updated>
-    </task>
-    <task id="LOCAL-00002" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694817513985</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1694817513985</updated>
-    </task>
-    <task id="LOCAL-00003" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694817532388</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1694817532388</updated>
-    </task>
-    <task id="LOCAL-00004" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694817540800</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1694817540800</updated>
-    </task>
-    <task id="LOCAL-00005" summary="New Commit">
-      <option name="closed" value="true" />
-      <created>1694817552591</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1694817552591</updated>
+      <workItem from="1694840696304" duration="29033000" />
     </task>
     <task id="LOCAL-00006" summary="New Commit">
       <option name="closed" value="true" />
@@ -381,7 +312,231 @@
       <option name="project" value="LOCAL" />
       <updated>1694875741922</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898860691</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898860691</updated>
+    </task>
+    <task id="LOCAL-00028" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898871088</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898871088</updated>
+    </task>
+    <task id="LOCAL-00029" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898881164</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898881164</updated>
+    </task>
+    <task id="LOCAL-00030" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898887949</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898887949</updated>
+    </task>
+    <task id="LOCAL-00031" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898897134</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898897134</updated>
+    </task>
+    <task id="LOCAL-00032" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898903094</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898903094</updated>
+    </task>
+    <task id="LOCAL-00033" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898912319</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898912319</updated>
+    </task>
+    <task id="LOCAL-00034" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898923303</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898923303</updated>
+    </task>
+    <task id="LOCAL-00035" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898932551</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898932551</updated>
+    </task>
+    <task id="LOCAL-00036" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898944011</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898944011</updated>
+    </task>
+    <task id="LOCAL-00037" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898953767</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898953767</updated>
+    </task>
+    <task id="LOCAL-00038" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898961378</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898961378</updated>
+    </task>
+    <task id="LOCAL-00039" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898973010</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898973010</updated>
+    </task>
+    <task id="LOCAL-00040" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898984083</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898984083</updated>
+    </task>
+    <task id="LOCAL-00041" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898990675</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898990675</updated>
+    </task>
+    <task id="LOCAL-00042" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694898997315</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1694898997315</updated>
+    </task>
+    <task id="LOCAL-00043" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899006906</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899006906</updated>
+    </task>
+    <task id="LOCAL-00044" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899017545</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899017545</updated>
+    </task>
+    <task id="LOCAL-00045" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899027888</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899027888</updated>
+    </task>
+    <task id="LOCAL-00046" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899037687</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899037687</updated>
+    </task>
+    <task id="LOCAL-00047" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899045514</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899045514</updated>
+    </task>
+    <task id="LOCAL-00048" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899055178</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899055178</updated>
+    </task>
+    <task id="LOCAL-00049" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899063443</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899063443</updated>
+    </task>
+    <task id="LOCAL-00050" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899072834</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899072834</updated>
+    </task>
+    <task id="LOCAL-00051" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899079852</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899079852</updated>
+    </task>
+    <task id="LOCAL-00052" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899090303</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899090303</updated>
+    </task>
+    <task id="LOCAL-00053" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899104076</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899104076</updated>
+    </task>
+    <task id="LOCAL-00054" summary="17/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694899113018</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1694899113018</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +544,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
+    <MESSAGE value="17/09/23 dated committing" />
+    <option name="LAST_COMMIT_MESSAGE" value="17/09/23 dated committing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
