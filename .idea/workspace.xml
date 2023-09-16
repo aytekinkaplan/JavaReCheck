@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="New Commit">
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass004/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass004/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass005/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java001_Scanner/CallingFromClass005/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VRu2YBAyFwF4BbKqSP4PlSEidP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,34 +36,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Java001_Scanner",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aonik/IdeaProjects/JavaReCheck/src/Java001_Scanner&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aonik\IdeaProjects\JavaReCheck\src\Java001_Scanner" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java001_Scanner.CallingFromClass004.ClassB">
+  <component name="RunManager" selected="Application.ClassA">
     <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass001.Class2" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java001_Scanner.CallingFromClass001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.CallingFromClass005.ClassA" />
+      <module name="JavaReCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java001_Scanner.CallingFromClass005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java001_Scanner.ScannerExample002" />
-      <module name="JavaReCheck" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java001_Scanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassA" />
         <item itemvalue="Application.Java001_Scanner.CallingFromClass004.ClassB" />
         <item itemvalue="Application.ClassB" />
         <item itemvalue="Application.Java001_Scanner.CallingFromClass002.Class2" />
         <item itemvalue="Application.Class2" />
-        <item itemvalue="Application.ScannerExample002" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694811008753</updated>
       <workItem from="1694811009988" duration="8601000" />
+      <workItem from="1694840696304" duration="2472000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <option name="closed" value="true" />
