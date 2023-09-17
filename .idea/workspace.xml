@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="17/09/23 dated committing">
-      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/ifStatement001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java003_ifStatementTernaryOperator/TernaryOperator006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java004_SwitchStatement/SwitchStatementExample_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java004_SwitchStatement/SwitchStatementExample_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java004_SwitchStatement/SwitchStatementExample_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java004_SwitchStatement/SwitchStatementExample_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java004_SwitchStatement/SwitchStatementExample_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java005_StringManipulation/StringManipulationExamples001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java005_StringManipulation/StringManipulationExamples002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java006_Loops/LoopsExample001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,39 +50,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Java001_Scanner",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aonik/IdeaProjects/JavaReCheck/src/Java001_Scanner&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aonik\IdeaProjects\JavaReCheck\src\Java001_Scanner" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java003_ifStatementTernaryOperator" />
       <recent name="Java002_Operators" />
       <recent name="Java002_Operators.CallingFromClass002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ifStatement001">
-    <configuration name="ArithMeticExample004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ArithMeticExample004" />
+  <component name="RunManager" selected="Application.MethodCreationExample003">
+    <configuration name="MethodCreationExample001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample001" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java002_Operators.*" />
+          <option name="PATTERN" value="Java007_MethodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparisonOperators001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators001" />
+    <configuration name="MethodCreationExample002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample002" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java002_Operators.*" />
+          <option name="PATTERN" value="Java007_MethodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparisonOperators002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators002" />
+    <configuration name="MethodCreationExample003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample003" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java002_Operators.*" />
+          <option name="PATTERN" value="Java007_MethodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparisonOperators003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java002_Operators.ComparisonOperators003" />
+    <configuration name="StringManipulationExamples001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java005_StringManipulation.StringManipulationExamples001" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java002_Operators.*" />
+          <option name="PATTERN" value="Java005_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifStatement001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java003_ifStatementTernaryOperator.ifStatement001" />
+    <configuration name="StringManipulationExamples002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java005_StringManipulation.StringManipulationExamples002" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java003_ifStatementTernaryOperator.*" />
+          <option name="PATTERN" value="Java005_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifStatement001" />
-        <item itemvalue="Application.ComparisonOperators003" />
-        <item itemvalue="Application.ComparisonOperators002" />
-        <item itemvalue="Application.ComparisonOperators001" />
-        <item itemvalue="Application.ArithMeticExample004" />
+        <item itemvalue="Application.MethodCreationExample003" />
+        <item itemvalue="Application.MethodCreationExample002" />
+        <item itemvalue="Application.MethodCreationExample001" />
+        <item itemvalue="Application.StringManipulationExamples002" />
+        <item itemvalue="Application.StringManipulationExamples001" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +163,8 @@
       <updated>1694811008753</updated>
       <workItem from="1694811009988" duration="8601000" />
       <workItem from="1694840696304" duration="29865000" />
+      <workItem from="1694926678994" duration="17107000" />
+      <workItem from="1694973680979" duration="4258000" />
     </task>
     <task id="LOCAL-00009" summary="New Commit">
       <option name="closed" value="true" />
