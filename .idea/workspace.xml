@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="18/09/23 dated committing">
-      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/CallingFromClass001/Class01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/CallingFromClass001/Class02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +63,13 @@
       <recent name="Java002_Operators.CallingFromClass002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodCreationExample005">
-    <configuration name="MethodCreationExample001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample001" />
+  <component name="RunManager" selected="Application.Class02">
+    <configuration name="Class02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.CallingFromClass001.Class02" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.*" />
+          <option name="PATTERN" value="Java007_MethodCreation.CallingFromClass001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class02" />
         <item itemvalue="Application.MethodCreationExample005" />
         <item itemvalue="Application.MethodCreationExample004" />
         <item itemvalue="Application.MethodCreationExample003" />
         <item itemvalue="Application.MethodCreationExample002" />
-        <item itemvalue="Application.MethodCreationExample001" />
       </list>
     </recent_temporary>
   </component>
@@ -147,23 +150,7 @@
       <workItem from="1694811009988" duration="8601000" />
       <workItem from="1694840696304" duration="29865000" />
       <workItem from="1694926678994" duration="17107000" />
-      <workItem from="1694973680979" duration="5836000" />
-    </task>
-    <task id="LOCAL-00029" summary="17/09/23 dated committing">
-      <option name="closed" value="true" />
-      <created>1694898881164</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1694898881164</updated>
-    </task>
-    <task id="LOCAL-00030" summary="17/09/23 dated committing">
-      <option name="closed" value="true" />
-      <created>1694898887949</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1694898887949</updated>
+      <workItem from="1694973680979" duration="7531000" />
     </task>
     <task id="LOCAL-00031" summary="17/09/23 dated committing">
       <option name="closed" value="true" />
@@ -541,7 +528,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694989525056</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="18/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694990067906</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1694990067906</updated>
+    </task>
+    <task id="LOCAL-00079" summary="18/09/23 dated committing">
+      <option name="closed" value="true" />
+      <created>1694990077766</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1694990077766</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
