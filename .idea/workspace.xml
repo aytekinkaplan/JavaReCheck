@@ -18,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -164,22 +170,7 @@
       <workItem from="1695447358539" duration="1188000" />
       <workItem from="1695892868578" duration="630000" />
       <workItem from="1696567509092" duration="20476000" />
-    </task>
-    <task id="LOCAL-00071" summary="18/09/23 dated committing">
-      <option name="closed" value="true" />
-      <created>1694988627807</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1694988627807</updated>
-    </task>
-    <task id="LOCAL-00072" summary="18/09/23 dated committing">
-      <option name="closed" value="true" />
-      <created>1694988643104</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1694988643104</updated>
+      <workItem from="1696594480458" duration="305000" />
     </task>
     <task id="LOCAL-00073" summary="18/09/23 dated committing">
       <option name="closed" value="true" />
@@ -557,7 +548,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696594365832</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="06/10/23 dated committing--Murat Abi yi beklerken">
+      <option name="closed" value="true" />
+      <created>1696594493278</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1696594493278</updated>
+    </task>
+    <task id="LOCAL-00121" summary="06/10/23 dated committing--Murat Abi yi beklerken">
+      <option name="closed" value="true" />
+      <created>1696594764528</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1696594764528</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
