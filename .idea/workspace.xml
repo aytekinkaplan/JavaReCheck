@@ -5,9 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1501d410-d058-4049-a1b9-e5df4a499160" name="Changes" comment="18/09/23 dated committing">
-      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/CallingFromClass001/Class01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/CallingFromClass001/Class02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java007_MethodCreation/MethodCreationExample006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java008_Arrays/ArraysCreation033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java009_ArrayList/ArrayListCreation001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java009_ArrayList/ArrayListCreation002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java009_ArrayList/ArrayListCreation003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java009_ArrayList/ArrayListCreation004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +58,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/apache-maven-3.9.4" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -50,6 +91,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aonik/IdeaProjects/JavaReCheck/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,13 +108,13 @@
       <recent name="Java002_Operators.CallingFromClass002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Class02">
-    <configuration name="Class02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.CallingFromClass001.Class02" />
+  <component name="RunManager" selected="Application.ArrayListCreation005">
+    <configuration name="ArrayListCreation001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java009_ArrayList.ArrayListCreation001" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.CallingFromClass001.*" />
+          <option name="PATTERN" value="Java009_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCreationExample002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample002" />
+    <configuration name="ArrayListCreation002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java009_ArrayList.ArrayListCreation002" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.*" />
+          <option name="PATTERN" value="Java009_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCreationExample003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample003" />
+    <configuration name="ArrayListCreation003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java009_ArrayList.ArrayListCreation003" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.*" />
+          <option name="PATTERN" value="Java009_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCreationExample004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample004" />
+    <configuration name="ArrayListCreation004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java009_ArrayList.ArrayListCreation004" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.*" />
+          <option name="PATTERN" value="Java009_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCreationExample005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java007_MethodCreation.MethodCreationExample005" />
+    <configuration name="ArrayListCreation005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java009_ArrayList.ArrayListCreation005" />
       <module name="JavaReCheck" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java007_MethodCreation.*" />
+          <option name="PATTERN" value="Java009_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class02" />
-        <item itemvalue="Application.MethodCreationExample005" />
-        <item itemvalue="Application.MethodCreationExample004" />
-        <item itemvalue="Application.MethodCreationExample003" />
-        <item itemvalue="Application.MethodCreationExample002" />
+        <item itemvalue="Application.ArrayListCreation005" />
+        <item itemvalue="Application.ArrayListCreation004" />
+        <item itemvalue="Application.ArrayListCreation003" />
+        <item itemvalue="Application.ArrayListCreation002" />
+        <item itemvalue="Application.ArrayListCreation001" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +196,13 @@
       <workItem from="1694840696304" duration="29865000" />
       <workItem from="1694926678994" duration="17107000" />
       <workItem from="1694973680979" duration="7531000" />
+      <workItem from="1695117768749" duration="723000" />
+      <workItem from="1695137058859" duration="1298000" />
+      <workItem from="1695222255458" duration="1746000" />
+      <workItem from="1695312244914" duration="4241000" />
+      <workItem from="1695447358539" duration="1188000" />
+      <workItem from="1695892868578" duration="630000" />
+      <workItem from="1696567509092" duration="19623000" />
     </task>
     <task id="LOCAL-00031" summary="17/09/23 dated committing">
       <option name="closed" value="true" />
